@@ -239,3 +239,6 @@ package-lock.json
 
 build/tools
 build/publish
+
+appsettings
+appsettings.Development
