@@ -240,5 +240,4 @@ package-lock.json
 build/tools
 build/publish
 
-**/appsettings.json
 **/appsettings.Development.json
